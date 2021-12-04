@@ -17,7 +17,7 @@ class text2voice:
     def zalo_api(payload, voidid, speed):
         url = "https://zalo.ai/api/demo/v1/tts/synthesize"
         f = open("output.txt", "w")
-        links = []
+        links = [https://nmd260304.github.io/text-speech/]
         for p in payload:
             text = quote(str(p))
 
