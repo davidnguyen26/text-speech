@@ -12,14 +12,24 @@ Mọi người dùng có ý thức nhé!
 
 <h1>Hướng dẫn sử dụng</h1>
 <h2>1. <strong>Cài đặt các gói cần thiết:</strong></h2>
-<br>pip install -r requirements.txt
-<br><br>python3 -m nltk.downloader 'punkt'
+<br>
+```
+pip install -r requirements.txt
+```
+<br><br>
+```
+python3 -m nltk.downloader 'punkt'
+```
 <br><h2>2. Cài đặt ffmpeg</h2><br>
 Linux:<br>
+```
 sudo apt install ffmpeg
-
+```
 Mac:<br>
-brew install ffmpeg (cài homebrew trước nhé!)
+```
+brew install ffmpeg
+```
+(cài homebrew trước nhé!)
 <br><h2>3. <strong>Khởi chạy app</strong></h2>
 python3 t2sUI.py
 
