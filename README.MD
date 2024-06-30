@@ -10,8 +10,6 @@ Mọi người dùng có ý thức nhé!
 
 <strong>Chân thành cảm ơn đội ngũ Zalo!</strong>
 
-<h2>Cafe for me: 0859000168 (MoMo) - Nguyễn Minh Đức</h2>
-
 <h1>Hướng dẫn sử dụng</h1>
 <h2>1. <strong>Cài đặt các gói cần thiết:</strong></h2>
 <br>pip install -r requirements.txt
