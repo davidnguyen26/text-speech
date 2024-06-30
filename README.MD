@@ -12,13 +12,10 @@ Mọi người dùng có ý thức nhé!
 
 <h1>Hướng dẫn sử dụng</h1>
 <h2>1. <strong>Cài đặt các gói cần thiết:</strong></h2>
-<br>
 
 ```sh
 pip install -r requirements.txt
 ```
-
-<br><br>
 
 ```sh
 python3 -m nltk.downloader 'punkt'
@@ -39,7 +36,7 @@ brew install ffmpeg
 
 (cài homebrew trước nhé!)
 <br><h2>3. <strong>Khởi chạy app</strong></h2>
-python3 t2sUI.py
+<b>python3 t2sUI.py</b>
 
 <h2>UI Demo</h2>
 <br><img src=https://github.com/bachtran2000/text-2-speech/blob/main/img/output%20audio.png><br>
